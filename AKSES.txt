@@ -1,0 +1,7 @@
+ADMIN
+email 		: leonard@gmail.com
+password 	: 123456
+
+USER
+email		: leonardfredsmorin3@gmail.com (email aktif)
+password	: leonard
